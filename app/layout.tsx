@@ -8,6 +8,9 @@ export const metadata: Metadata = {
   title: "FreelancerOS — Win Any Project. Deliver Like a Pro.",
   description:
     "AI-powered platform for USA freelancers. Bid, deliver and get paid for any type of project.",
+  icons: {
+    icon: "/logo.png",
+  },
 }
 
 export default function RootLayout({
